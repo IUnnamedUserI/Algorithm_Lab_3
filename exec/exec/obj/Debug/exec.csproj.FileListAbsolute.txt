@@ -1,0 +1,8 @@
+D:\Учёба\Алгоритмизация\Algorithm_Lab_3\exec\exec\bin\Debug\exec.exe.config
+D:\Учёба\Алгоритмизация\Algorithm_Lab_3\exec\exec\bin\Debug\exec.exe
+D:\Учёба\Алгоритмизация\Algorithm_Lab_3\exec\exec\bin\Debug\exec.pdb
+D:\Учёба\Алгоритмизация\Algorithm_Lab_3\exec\exec\obj\Debug\exec.csproj.AssemblyReference.cache
+D:\Учёба\Алгоритмизация\Algorithm_Lab_3\exec\exec\obj\Debug\exec.csproj.SuggestedBindingRedirects.cache
+D:\Учёба\Алгоритмизация\Algorithm_Lab_3\exec\exec\obj\Debug\exec.csproj.CoreCompileInputs.cache
+D:\Учёба\Алгоритмизация\Algorithm_Lab_3\exec\exec\obj\Debug\exec.exe
+D:\Учёба\Алгоритмизация\Algorithm_Lab_3\exec\exec\obj\Debug\exec.pdb
